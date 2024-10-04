@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-image: url("./assets/images/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 80vh;
+}
